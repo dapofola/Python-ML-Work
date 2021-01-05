@@ -1,0 +1,10 @@
+Assignment 1: Supervised learning, Linear models, and Loss functions
+Assignment 2: Maximum likelihood
+Assignment 3: Classification with Logistic Regression
+Assignment 4: Confidence Intervals & The Bootstrap
+Assignment 5: Model Selection & Cross Validation
+Assignment 6: Regularization
+Assignment 8: Nested Spheres
+Assignment 9: Image Classification Experiments
+Assignment 10: Auto-encoding and Image Noise Reduction
+Assignment 11: Clustering
